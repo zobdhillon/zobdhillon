@@ -1,19 +1,19 @@
 <h1 align="center">Hey, I'm Zob 👋</h1>
 
 <p align="center">
-  Frontend Developer · React · Laravel · Tailwind CSS . Vue
+  Full Stack Developer · React · Laravel · Tailwind CSS
 </p>
 
 <p align="center">
-  <a href="https://zobdhillon.netlify.app">🌐 Portfolio</a>
+  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 🎨 I build clean, responsive UIs with **React**, **Tailwind CSS**, **Vue** and **Laravel**
-- 🌱 Currently open to **frontend developer** roles and internships
+- 🔨 I build end-to-end web apps with **Laravel** on the backend and **React + Tailwind** on the frontend
+- 🚀 Currently open to **full stack developer** roles and internships
 - 📍 Based remotely
 
 ---
@@ -27,6 +27,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -34,12 +35,12 @@
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
-| 🌟 [**DevLogs**](https://github.com/zobdhillon/devlogs) | Developer social platform — share logs, track goals, explore resources & get AI insights | Laravel, Blade, Tailwind, Alpine.js | [devlogs.42web.io](https://devlogs.42web.io) |
+| 🌟 [**DevLogs**](https://github.com/zobdhillon/devlogs) | Full stack developer social platform — share logs, track goals, explore resources & get AI insights | Laravel, Blade, Tailwind, Alpine.js, MySQL | [devlogs.42web.io](https://devlogs.42web.io) |
 | [3D Portfolio](https://github.com/zobdhillon/3D-Portfolio-) | Interactive 3D developer portfolio | HTML, CSS, Three.js | — |
 | [Netflix Clone](https://github.com/zobdhillon/NetflixClone-Zob) | Responsive Netflix UI clone | HTML, CSS, JS | — |
-| [Task Tracker](https://github.com/zobdhillon/TaskTracker) | Task manager with user authentication | Laravel, PHP | — |
+| [Task Tracker](https://github.com/zobdhillon/TaskTracker) | Task manager with user authentication & CRUD | Laravel, PHP, MySQL | — |
 | [Single Page Resume](https://github.com/zobdhillon/SinglePageResume) | Printable resume template | Laravel Blade | — |
 
 ---
 
-<p align="center">💼 Open to work — let's connect!</p>
+<p align="center">💼 Open to full stack roles — let's connect!</p>

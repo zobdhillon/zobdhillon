@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+  <a href="[YOUR_PORTFOLIO_URL](https://zobdhillon.netlify.app/)">🌐 Portfolio</a>
 </p>
 
 ---

@@ -2,6 +2,8 @@
 
 Full stack developer building end-to-end web applications with Laravel on the backend and Vue, React, and Tailwind on the frontend. Based remotely in Lahore, Pakistan.
 
+zobbdhillon@gmail.com · [Portfolio ↗](https://zobdhillon.netlify.app)
+
 ---
 
 ### Tech Stack
@@ -21,12 +23,19 @@ Full stack developer building end-to-end web applications with Laravel on the ba
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [**Rehearse**](https://github.com/zobdhillon/Rehearse) | AI-powered conversation practice app — rehearse job interviews, salary negotiations, and client calls with scored feedback | Laravel, Vue 3, Inertia.js, Groq API, MySQL | [Live ↗](https://rehearse-ai.up.railway.app) |
+| [**Rehearse**](https://github.com/zobdhillon/Rehearse) | AI-powered conversation practice app — rehearse job interviews, salary negotiations, and client calls with scored feedback across 20 scenarios | Laravel, Vue 3, Inertia.js, Groq API, MySQL | [Live ↗](https://rehearse-ai.up.railway.app) |
 | [**DevLogs**](https://github.com/zobdhillon/devlogs) | Developer social platform — share logs, track learning goals, explore resources, and get AI insights | Laravel, Blade, Alpine.js, Tailwind, MySQL | [Live ↗](https://devlogs.42web.io) |
-| [**Resume**](https://github.com/zobdhillon/SinglePageResume) | Single-page developer resume rendered from a JSON file through Laravel and Blade — styled as a VS Code editor | Laravel, Blade, Tailwind, PHP 8.4 | [Live ↗](https://zob-resume.up.railway.app) |
+| [**Resume**](https://github.com/zobdhillon/SinglePageResume) | Single-page developer resume rendered from a JSON file through Laravel and Blade — styled as a VS Code editor with print-to-PDF export | Laravel, Blade, Tailwind, PHP 8.4 | [Live ↗](https://zob-resume.up.railway.app) |
+
+---
+
+### Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobdhillon&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
 ---
 
 ### Currently
 
 - Open to full stack developer roles and internships
-- [Portfolio ↗](https://zobdhillon.netlify.app)
+- Building in public — always shipping

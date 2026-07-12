@@ -31,7 +31,7 @@ zobbdhillon@gmail.com · [Portfolio ↗](https://zobdhillon.netlify.app)
 
 ### Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobdhillon&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)
 
 ---
 
